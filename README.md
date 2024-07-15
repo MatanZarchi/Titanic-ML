@@ -1,5 +1,8 @@
+***
+
 # TitanicML
 
+***
 ## machine learning project about titanic passangers . 
 
 ## Overview
@@ -30,4 +33,18 @@ The project implements a supervised learning flow on the Titanic dataset, which 
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
 
+## Getting Started
+
+To build and run the app locally, follow these steps:
+
+1. **Clone the repository:** `git clone https://github.com/MatanZarchi/Titanic-ML.git`
+2. **Open the project in pychrm/ jupyter notebook/ vscode.**
+3. **Build and run the app.**
+
 [![Watch the video](https://github.com/eranCat/TitanicML/blob/main/thumbnail.png)](https://drive.google.com/file/d/1PpNOyYM5uDSCpIWK9WlL1GQo426l2gRO/view)
+
+## Acknowledgments
+
+📧 **Mail:** [matanelf2@gmail.com](url)  
+👨‍💻**Git:** https://github.com/MatanZarchi 
+
