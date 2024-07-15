@@ -1,7 +1,7 @@
 ***
 
-<h1 align="center">TitanicML</h1>
-<h1 align="center">machine learning project about titanic passangers</h1>
+<h1 align="center">TitanicML🚢⛴️</h1>
+<h1 align="center">machine learning project about titanic passengers</h1>
 
 ***
 
