@@ -32,6 +32,8 @@ The project implements a supervised learning flow on the Titanic dataset, which 
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
 
+[![Watch the video](https://github.com/eranCat/TitanicML/blob/main/thumbnail.png)](https://drive.google.com/file/d/1PpNOyYM5uDSCpIWK9WlL1GQo426l2gRO/view)
+
 ## Getting Started
 
 To build and run the app locally, follow these steps:
@@ -40,7 +42,6 @@ To build and run the app locally, follow these steps:
 2. **Open the project in pychrm/ jupyter notebook/ vscode.**
 3. **Build and run the app.**
 
-[![Watch the video](https://github.com/eranCat/TitanicML/blob/main/thumbnail.png)](https://drive.google.com/file/d/1PpNOyYM5uDSCpIWK9WlL1GQo426l2gRO/view)
 
 ## Acknowledgments
 
