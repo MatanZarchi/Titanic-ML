@@ -1,6 +1,6 @@
 ***
 
-# TitanicML
+<h1 align="center"> TitanicML (Machine Learning) </h1>
 
 ***
 ## machine learning project about titanic passangers . 
