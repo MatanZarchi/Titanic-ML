@@ -1,9 +1,8 @@
 ***
 
-<h1 align="center"> TitanicML (Machine Learning) </h1>
+<h1 align="center"> TitanicML - machine learning project about titanic passangers </h1>
 
 ***
-## machine learning project about titanic passangers . 
 
 ## Overview
 This project showcases the usage of machine learning techniques to predict survival outcomes on the Titanic dataset.
